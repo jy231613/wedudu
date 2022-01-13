@@ -1,4 +1,4 @@
-# wedudu
+# 开源球球
 仿微泡泡的功能实现,
 
 原理为基于NotificationListenerService服务的消息抓取和基于车载服务AndroidAuto的消息回复功能.
